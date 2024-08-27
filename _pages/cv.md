@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Electronic Information, Shanghai Jiao Tong University, 2018
+* M.S. in Mechanical Engineering, Jilin University, 2017
+* B.S. in Agricultural Mechanisation and Automation, Shandong Agricultural University, 2012
 
-Work experience
+Research Interest
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Data Privacy Protection and Security in IoV
+* Distributed Machine Learning Privacy and Security (e.g. Federated Learning, Deep Reinforcement Learning)
+* Large Language Model Privacy and Security
+* Game Theory and its Applications in IoT and Machine Learning.
   
-Skills
+Grants & Honors
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2022, Campus-level Outstanding Graduation Paper **Top: 5%**
+* 2021, Provincial Outstanding Graduates **Top: 3%**
+* 2017-2020, Academic scholarships (RMB 50,000) **Top: 3%**
+* 2020, Postgraduate National Scholarships (RMB 20,000) **Top: 0.2%**
+* 2017-2020, Student Scholarship (three times) (RMB 8,000) **Top: 10%**
+* 2016, Outstanding Graduates **Top: 10%**
+* 2016, Campus-level Outstanding Graduation Paper **Top: 5%**
+* 2012-2016, Student Scholarship (three times) (RMB 24,000) **Top: 5%**
+* 2016, Freshman Innovation and Entrepreneurship Mentor **Top: 5%**
+* 2015, Shandong Province Student Electronic Design Competition, Second Prize **Top: 10%**
+* 2015, School-level Science and Technology Innovation Single Award (RMB 5,000) **Top: 10%**
+* 2014, Electronic Design Competition, First Prize **Top: 1%**
+* 2013, Shandong Hengnuo Innovation Practice Advanced Individual Award **Top: 10%**
 
 Publications
 ======
