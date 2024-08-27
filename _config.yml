@@ -12,7 +12,7 @@ title                    : "Dr."
 title_separator          : "-"
 name                     : &name "Kangkang Sun"
 description              : &description "A four-year student in Shanghai Jiao Tong University"
-url                      : https://szpsunkk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://szpsunkk.github.io/kangkangsun # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "szpsunkk/kangkangsun.github.io"
 
