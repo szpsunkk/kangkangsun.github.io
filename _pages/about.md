@@ -16,7 +16,7 @@ Current research interests are Data Security and Privacy, Tradeoffs in Federated
 
 # Selected Journal Publications
 
-Kangkang Sun, et al. 2024. Large-Scale Mean-Field Federated Learning for Detection and Defense against Byzantine Attacks in IoT. IEEE Internet of Things Journal (IoT-J).[link](https://ieeexplore.ieee.org/document/10638812/)
+Kangkang Sun, et al. 2024. Large-Scale Mean-Field Federated Learning for Detection and Defense against Byzantine Attacks in IoT. IEEE Internet of Things Journal (IoT-J). [link](https://ieeexplore.ieee.org/document/10638812/)
 
 Kangkang Sun, et al. 2024. Personalized Privacy-Preserving Federated Learning for Digital-Twin-Driven Vehicle Road Cooperation. IEEE Internet of Things Journal(IoT-J), doi:10.1109/JIOT.2024.3389656. [link](https://ieeexplore.ieee.org/document/10517764)
 
@@ -34,4 +34,4 @@ Kangkang Sun, et al. "Toward the Tradeoffs between Privacy, Fairness and Utility
 
 # For More Informaiton
 
-More info about Kangkang Sun can be found in [CV]().
+More info about Kangkang Sun can be found in [CV English](../file/Kangkangsun CV.pdf) and [CV Chinese](Kangkangsun CV_c.pdf).
