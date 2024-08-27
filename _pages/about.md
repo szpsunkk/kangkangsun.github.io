@@ -33,4 +33,4 @@ Kangkang Sun, et al. "Toward the Tradeoffs between Privacy, Fairness and Utility
 
 # For More Informaiton
 
-More info about Kangkang Sun can be found in [CV English](../file/Kangkangsun_CV.pdf) and [CV Chinese](../file/Kangkangsun_CV_c.pdf).
+More info about Kangkang Sun can be found in [CV English](../files/Kangkangsun_CV.pdf) and [CV Chinese](../files/Kangkangsun_CV_c.pdf).
