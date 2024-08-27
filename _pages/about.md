@@ -25,8 +25,7 @@ Kangkang Sun, et al. 2024. Joint Top-K Sparsification and Shuffle Model for Comm
 Kangkang Sun, et al. 2023. Leveraging Digital Twin and DRL for Collaborative Context Offloading in C-V2X Autonomous Driving. IEEE Transactions on Vehicular Technology (TVT), vol. 73, no. 4, pp.5020-5035, April 2024, doi: 10.1109/TVT.2023.3333243. [link](https://ieeexplore.ieee.org/document/10319104)
 
 Kangkang Sun, et al. "Reputation-Aware Incentive Mechanism of Federated Learning: A Mean Field
-Game Approach.", The 9th IEEE International Conference on Smart Cloud (IEEE SmartCloud 2024), May
-2024. [link](https://ieeexplore.ieee.org/document/10566322)
+Game Approach.", The 9th IEEE International Conference on Smart Cloud (IEEE SmartCloud 2024), May 2024. [link](https://ieeexplore.ieee.org/document/10566322)
 
 Kangkang Sun, et al. "Dynamic Privacy Protection of Federated Learning for Vehicular Digital TwinNetworks.", International Symposium on Intelligent Computing and Networking 2024 (ISICN 2024), March 2024. [link](https://link.springer.com/chapter/10.1007/978-3-031-67447-1_8)
 
