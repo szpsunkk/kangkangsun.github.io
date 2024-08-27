@@ -3,7 +3,6 @@ title: "Large-Scale Mean-Field Federated Learning for Detection and Defense agai
 collection: publications
 category: manuscripts
 permalink: /publication/2014-08-01-paper-IoT
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-08-01
 venue: 'IEEE Internet of Things Journal'
 paperurl: 'https://ieeexplore.ieee.org/document/10638812'
