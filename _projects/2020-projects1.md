@@ -1,6 +1,6 @@
 ---
 title: "International Internet of Things standard - IEEE P21451-1-5 (SNMP Protocol)"
-excerpt: " Manage Smart Transducers with Simple Network Management Project<br/><img src='/images/crop.png'>"
+excerpt: " Manage Smart Transducers with Simple Network Management Project<br/><img src='/images/IEEE.png'>"
 collection: projects
 date: 2020-09-01
 ---
