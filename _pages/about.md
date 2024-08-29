@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # A Short Introduction
-I'm a four-year PhD student under the supervision of Prof. [Jianhua Li](https://infosec.sjtu.edu.cn/TeamDetail.aspx?id=9) at Shanghai Jiao Tong University. I finished my master's degree at Jilin University in 2020, under the guidance of Prof. [Guoqiang Wang](https://teachers.jlu.edu.cn/wgq).
+I'm a four-year PhD student under the supervision of Prof. [Jianhua Li](https://infosec.sjtu.edu.cn/TeamDetail.aspx?id=9) at Shanghai Jiao Tong University. I finished my master's degree at Jilin University in 2020, under the supervision of Prof. [Guoqiang Wang](https://teachers.jlu.edu.cn/wgq).
 
 My previous research direction is the security of IoV and IoT, Data Security, Digital Twin (DT), and Distributed Machine Learning Security, including Federated Learning (FL), Deep Reinforcement Learning (DRL), Game Theory, etc.
 
