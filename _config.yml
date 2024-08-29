@@ -11,11 +11,11 @@ locale                   : "en-US"
 title                    : "Dr."
 title_separator          : "-"
 name                     : &name "Kangkang Sun"
-description              : &description "A four-year student in Shanghai Jiao Tong University"
-url                      : https://szpsunkk.github.io/kangkangsun # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "A four-year student at Shanghai Jiao Tong University"
+URL                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "szpsunkk/kangkangsun.github.io"
-
+remote_theme: pages-themes/cayman@v0.2.0
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
