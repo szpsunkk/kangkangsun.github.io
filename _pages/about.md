@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # A Short Introduction
-I'm a four-year PhD student under the supervision of Prof. [Jianhua Li](https://infosec.sjtu.edu.cn/TeamDetail.aspx?id=9) at Shanghai Jiao Tong University. I finished my master's degree at Jilin University in 2017.
+I'm a four-year PhD student under the supervision of Prof. [Jianhua Li](https://infosec.sjtu.edu.cn/TeamDetail.aspx?id=9) at Shanghai Jiao Tong University. I finished my master's degree at Jilin University in 2020, under the guidance of Prof. [Guoqiang Wang](https://teachers.jlu.edu.cn/wgq).
 
 My previous research direction is the security of IoV and IoT, Data Security, Digital Twin (DT), and Distributed Machine Learning Security, including Federated Learning (FL), Deep Reinforcement Learning (DRL), Game Theory, etc.
 
@@ -33,4 +33,4 @@ Kangkang Sun, et al. "Toward the Tradeoffs between Privacy, Fairness and Utility
 
 # For More Informaiton
 
-More info about Kangkang Sun can be found in [CV English](https://github.com/szpsunkk/kangkangsun/blob/master/files/Kangkangsun%20CV.pdf) and [CV Chinese](http://kangkangsun.work/me/resources/Kangkangsun%20CV_c.pdf).
+More info about Kangkang Sun can be found in [CV English](https://ghproxy.com/github.com/szpsunkk/kangkangsun/blob/master/files/Kangkangsun%20CV.pdf) and [CV Chinese](https://ghproxy.com/github.com/szpsunkk/kangkangsun/blob/master/files/Kangkangsun%20CV.pdf_c.pdf).
