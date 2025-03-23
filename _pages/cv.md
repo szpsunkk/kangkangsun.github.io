@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* PhD in Electronic Information, Shanghai Jiao Tong University, 2018
-* M.S. in Mechanical Engineering, Jilin University, 2017
-* B.S. in Agricultural Mechanisation and Automation, Shandong Agricultural University, 2012
+* Post-Doctor in Computer Science, Shanghai Jiao Tong University, 2026
+* PhD in Electronic Information, Shanghai Jiao Tong University, 2024
+* M.S. in Mechanical Engineering, Jilin University, 2020
+* B.S. in Agricultural Mechanisation and Automation, Shandong Agricultural University, 2016
 
 Research Interest
 ======
