@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+More info about Kangkang Sun can be found in [CV English Web](https://github.com/szpsunkk/kangkangsun.github.io/edit/master/CV_Kangkang_Sun_SJTU.pdf).
 {% include base_path %}
 
 Education
