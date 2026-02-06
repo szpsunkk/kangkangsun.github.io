@@ -15,4 +15,4 @@ I finished my master's degree at Jilin University in 2020, under the supervision
 
 # For More Informaiton
 
-More info about Kangkang Sun can be found in [CV English Web]([http://github.com/szpsunkk/kangkangsun](https://github.com/szpsunkk/kangkangsun.github.io/edit/master/CV_Kangkang Sun SJTU.pdf).
+More info about Kangkang Sun can be found in [CV English Web](https://github.com/szpsunkk/kangkangsun.github.io/edit/master/CV_Kangkang Sun SJTU.pdf).
