@@ -25,6 +25,7 @@ Research Interest
   
 Grants & Honors
 ======
+* 2025，Shanghai Super Postdoctoral Incentive Program (RMB 300,000)
 * 2022, Campus-level Outstanding Graduation Paper **Top: 5%**
 * 2021, Provincial Outstanding Graduates **Top: 3%**
 * 2017-2020, Academic scholarships (RMB 50,000) **Top: 3%**
